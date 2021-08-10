@@ -1,7 +1,7 @@
 # Clustering-and-Analytics-of-Similar-Sounding-Words-via-Phoenetic-Codes
 Implementation, Proof-of-Concept and Examples demonstrating the use of a novel Phonetic Distance measure and it's corresponding Clustering technique.
 
-The results from this original project was then split and published into two papers which you can find here: [Identifying the Right Person in Social Networks with Double Metaphone Codes](https://ieeexplore.ieee.org/abstract/document/9443676) and here: [Analytics of Similar-Sounding Names from the Web with Phonetic Based Clustering](https://ieeexplore.ieee.org/document/9457753). Authors: Joshua D. Hamilton; Carson K. Leung; Sehaj P. Singh.
+The results from this original project has been since split and published into two papers which you can find here: [Identifying the Right Person in Social Networks with Double Metaphone Codes](https://ieeexplore.ieee.org/abstract/document/9443676) and here: [Analytics of Similar-Sounding Names from the Web with Phonetic Based Clustering](https://ieeexplore.ieee.org/document/9457753). Authors: Joshua D. Hamilton; Carson K. Leung; Sehaj P. Singh.
 
 homophones.csv is a csv file containing a list of homophones and their corresponding homophonetic group memberships.
 For example, 'oar', 'ore' and 'or' all belong to group 0, while 'bight', 'bite' and 'byte' all belong to group 3.
