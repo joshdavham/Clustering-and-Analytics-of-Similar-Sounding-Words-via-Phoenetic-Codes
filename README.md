@@ -1,7 +1,7 @@
 # Clustering-and-Analytics-of-Similar-Sounding-Words-via-Phoenetic-Codes
 
-![download](https://user-images.githubusercontent.com/18585507/128941167-8ee5fe41-8a1e-4d92-95c1-77690e9a4c72.png)![Screenshot from 2021-08-10 17-07-00](https://user-images.githubusercontent.com/18585507/128941296-de47b3b2-983b-4997-8839-44c7bfc114e1.png)
-
+![Screenshot from 2021-08-10 17-07-00](https://user-images.githubusercontent.com/18585507/128941296-de47b3b2-983b-4997-8839-44c7bfc114e1.png)
+![download](https://user-images.githubusercontent.com/18585507/128941167-8ee5fe41-8a1e-4d92-95c1-77690e9a4c72.png)
 
 Implementation, Proof-of-Concept and Examples demonstrating the use of a novel Phonetic Distance measure and it's corresponding Clustering technique.
 
