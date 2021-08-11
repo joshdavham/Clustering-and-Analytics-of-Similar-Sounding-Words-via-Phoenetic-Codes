@@ -35,10 +35,3 @@ And the author is https://github.com/dracos.
 
 Proof-of-Concept Implementation.ipynb contains an interactive jupyter notebook that demonstrates our clustering method.
 If you would just like to see the results without running it yourself, you only need to click on that file in this git-hub repository. It contains a single, full run-through of the entire notebook. (Note that sometimes it fails to load - that's okay. Just keep trying and it will eventually load properly.)
-
-If you would like to run it yourself, please press this button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/minc33/Proof-of-Concept_Implementation/master). You will be guided to a website that will allow you to run this file on your browser. Once you're there, click on the Proof-of_Concept Implementation.ipynb file and be sure to uncomment the !pip commands in the first code-block. You may prefer this option if you do not have jupyter notebooks or the other important python libraries installed on your own device.
-
-Examples.ipynb contains a notebook that demostrates how we acheived some of the figures that were shown in our paper.
-Similar to the above notebook, if you would just like to take a look at how we did it without running our code, simply click on the file in the github repository. If you would like to run the code for yourself, click this button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/minc33/Proof-of-Concept_Implementation/master), then click on Examples.ipynb. (Again, remember to uncomment those !pip commands.)
-
-All experimental results can be easily reproduced by re-running the notebooks at [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/minc33/Proof-of-Concept_Implementation/master).
